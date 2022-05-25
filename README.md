@@ -25,6 +25,7 @@ Hi, I'm Danny
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
 </div>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh031200&layout=compact)
