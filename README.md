@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, I'm Danny Kim.   
+<!--
 Embedded System Developer & AI Engineer at __<a href="https://bluesignal.ai/" target="_blank"><img src='https://bluesignal.ai/favicon.png'/> Bluesignal </a>__  
-
+-->
 <a href="https://github.com/dh031200">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh031200&hide=c%2B%2B,c,html&title_color=adbac7&text_color=adbac7&icon_color=6aa6f8&bg_color=22272e" alt="Danny Kim's GitHub Stats" />
 </a>
